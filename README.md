@@ -1,0 +1,1 @@
+# kata-js-trainning
